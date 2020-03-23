@@ -1,6 +1,5 @@
 # ignw_netops_github_lab
-#Favorite fruit
-- mango
-- grape
-- orange
-- kiwi
+#Favorite veggies
+- carrot
+- celery
+- tomato
